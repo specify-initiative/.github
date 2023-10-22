@@ -1,2 +1,3 @@
-# .github
 Specify Initiative is a ...
+
+:construction: WORK IN PROGRESS :construction:
